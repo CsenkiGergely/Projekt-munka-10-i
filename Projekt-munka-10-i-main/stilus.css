@@ -8,8 +8,8 @@ body{
 }
 
 #header{
-    width: auto;
-    height: 123px;
+    width:initial;
+    height: 120px;
     background-color: gray;
 }
 
@@ -53,7 +53,7 @@ footer{
 
 #b{
     float: left;
-    width: 320px;
+    width: 350px;
     text-align: center;
     margin-top: 40px;
     font-size: xx-large;
@@ -62,7 +62,7 @@ footer{
 
 #c{
     float: left;
-    width: 320px;
+    width: 350px;
     text-align: center;
     margin-top: 40px;
     font-size: xx-large;
@@ -70,8 +70,8 @@ footer{
 }
 
 #d{
-    float: left;
-    width: 320px;
+    float: right;
+    width: 350px;
     text-align: center;
     margin-top: 40px;
     font-size: xx-large;
@@ -79,8 +79,8 @@ footer{
 }
 
 #e{
-    float: left;
-    width: 200px;
+    float: right;
+    width: 350px;
     text-align: center;
     margin-top: 40px;
     font-size: xx-large;
@@ -101,10 +101,18 @@ a:hover{
 }
 
 #g{
-    float: left;
-    width: 320px;
+    float: right;
+    width: 500px;
     text-align: center;
     margin-top: 40px;
     font-size: xx-large;
     text-decoration: none;
 }
+#x{
+    width: 320px;
+    margin-top: 100px;
+    margin-left: 300px;
+    height: 700px;
+    border-radius: 25px;
+    background-color: white;
+  }
