@@ -116,3 +116,8 @@ a:hover{
     border-radius: 25px;
     background-color: white;
   }
+
+  #img{
+    width: 100%;
+    max-width: 500px;
+}
