@@ -114,19 +114,17 @@ a:hover{
     margin-left: 200px;
     height: 550px;
     border-radius: 25px;
-    background-color: white;
   }
 
   #img{
     width: 100%;
-    max-width: 500px;
+    max-width: 300px;
 }
 
 #z{
     width: 550px;
-    margin-top: -28px;
-    margin-left: 1000px;
+    margin-top: -550px;
+    margin-left: 900px;
     height: 550px;
     border-radius: 25px;
-    background-color: white;
   }
