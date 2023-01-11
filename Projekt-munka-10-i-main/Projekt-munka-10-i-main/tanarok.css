@@ -2,7 +2,7 @@
 body{
     background-image: url(háttér.png.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat: repeat-y;
     width: auto;
     height: auto;
 }
@@ -114,19 +114,84 @@ a:hover{
     margin-left: 200px;
     height: 550px;
     border-radius: 25px;
-    background-color: white;
   }
 
   #img{
     width: 100%;
     max-width: 500px;
+    margin-top: 400px;
 }
 
 #z{
     width: 550px;
-    margin-top: -28px;
-    margin-left: 1000px;
+    margin-top: -998px;
+    margin-left: 900px;
     height: 550px;
     border-radius: 25px;
-    background-color: white;
   }
+
+#a1{
+    width: 550px;
+    margin-top:  -998px;
+    margin-left: 900px;
+    height: 550px;
+}
+
+#a2{
+    width: 550px;
+    margin-top: -998px;
+    margin-left: 900px;
+    height: 550px;
+}
+
+#a3{
+    width: 550px;
+    margin-top: -998px;
+    margin-left: 900px;
+    height: 550px;
+}
+
+#a4{
+    width: 550px;
+    margin-top: -998px;
+    margin-left: 900px;
+    height: 550px;
+}
+
+#b1{
+    width: 550px;
+    margin-top: 500px;
+    margin-left: 200px;
+    height: 550px;
+    border-radius: 25px;
+}
+
+#b2{
+    width: 550px;
+    margin-top: 500px;
+    margin-left: 200px;
+    height: 550px;
+    border-radius: 25px;
+}
+
+#b3{
+    width: 550px;
+    margin-top: 500px;
+    margin-left: 200px;
+    height: 550px;
+    border-radius: 25px;
+}
+
+#b4{
+    width: 550px;
+    margin-top: 500px;
+    margin-left: 200px;
+    height: 550px;
+    border-radius: 25px;
+}
+
+#lo{
+    font-size: 50px;
+}
+
+
