@@ -114,12 +114,12 @@ a:hover{
     text-decoration: none;
 }
 #x{
-    width: 30%;
-    margin-top: 20%;
+    width: 20%;
+    margin: auto;
+    margin-top: 10%;
     margin-left: 40%;
-    height: 50%;
     border-radius: 25px;
-    background-color: white;
+    background-color: rgb(252, 252, 252);
   }
 
 #img{
@@ -134,14 +134,14 @@ a:hover{
 }
 
 #container{
-    width: 90%;
+    width: 60%;
     margin: auto;
 }
 
 li{
 display: inline-block;
-padding: 5px;
-padding-left: 20px;
+text-align: left;
+padding-left: 10px;
 padding-right: 20px;
 }
 
@@ -153,3 +153,4 @@ padding-right: 20px;
 #img-me{
     width: 100%;
 }
+
